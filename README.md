@@ -1,2 +1,1 @@
-# projetos.alura.isabella.1D
-repositóro de atividades da disciplina de educação digital
+meu codigo faz pipipi, popopo
